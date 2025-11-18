@@ -1,5 +1,5 @@
 <h1 align="center">
-Oiiiii '-' , eu sou Dionatas Lima
+Oiiiii '-' , eu sou o Dionatas Lima
 </h1>
 
 <h3 align="center">
@@ -38,3 +38,4 @@ Oiiiii '-' , eu sou Dionatas Lima
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViernesDion&layout=compact&langs_count=6&theme=dracula"
   />
 </p>
+
