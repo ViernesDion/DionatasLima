@@ -3,9 +3,9 @@ Oiiiii '-' , eu sou o Dionatas Lima
 </h1>
 
 <h3 align="center">
-  Sou Estudante de Ciências da computação no 2° Periodo
-  Centro Universitário FAM
-  Entusiasta de tecnologias diferentes e usuário Linux
+  Sou Estudante de Ciências da computação no 2° Periodo <br>
+  Centro Universitário FAM <br>
+  Entusiasta de tecnologias diferentes e usuário Linux <br>
 </h3>
 
 <br>
@@ -34,6 +34,7 @@ Oiiiii '-' , eu sou o Dionatas Lima
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ViernesDion&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViernesDion&layout=compact&langs_count=6&theme=dracula" />
 </p>
+
 
 
 
